@@ -1,0 +1,170 @@
+/*
+ Author: Bonnie LIU
+ Email:yueying_liu@student.uml.edu
+ Student_id: 01661781
+ All image from Bonnie
+ */
+body{
+    background-color: gray;
+    background-image: url("image/background.jpg");
+    
+}
+/*big head (the legend of Bonnie)style*/
+#head{
+    background-color: black;
+    color: white;
+    font-style:oblique;
+    text-align: center;
+    text-decoration: overline;
+    text-shadow: 3px 2px gray;
+    font-size:40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#bt{
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  padding:10px;
+}
+
+.Home {
+    border-radius: 70%;
+    padding:25px;
+}
+.story{
+    border-radius: 70%;
+    padding: 24px;
+}
+.Item{
+    border-radius: 70%;
+    padding: 25px;
+}
+.relation{
+    border-radius: 70%;
+    
+    padding: 23px;
+}
+.information{
+    border-radius: 70%;
+    padding: 20px;
+}
+
+#gen{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    padding-bottom:10px;
+}
+#gen img{
+    float: left;
+    padding:10px;
+}
+
+#general li{
+    list-style-type: none;
+    text-decoration: underline;
+}
+
+
+.bg{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-indent: 30px;
+    font-style: italic;
+    padding-left:10px;
+    margin-top:10px;
+}
+
+.Ab{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 340px;
+    margin-top: -377px;
+}
+.A{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 340px;
+    margin-top: 10px;
+    padding-bottom:20px;
+}
+#item{
+    text-align:center;
+}
+
+.table, th, td {
+  border: 1px solid black;
+  padding:5px;
+}
+
+.ent{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 680px;
+    margin-top: -377px;
+}
+.IM{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 680px;
+    margin-top: 10px;
+    padding-bottom:20px;
+}
+
+.HW{
+    width: 320px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 680px;
+    margin-top: 10px;
+}
+#Ag{
+    line-height:0.5;
+}
+
+#Assignment{
+    list-style-type:none;
+}
+#Assignment li{
+    display:inline;
+}
+#picture{
+    width: 240px;
+    height: 374px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding-left:10px;
+    margin-left: 1050px;
+    margin-top: -377px;
+}
+#picture img{
+    padding: 10px;
+}
+
+#c{
+    font-style: italic;
+    text-align: center;
+}
+
+#contact{
+    text-align:right;
+}
+footer{
+    text-align:right;
+}
+/* all the code is from Bonnie*/
